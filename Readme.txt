@@ -1,0 +1,6 @@
+We are two students from Florida who are looking to create a bussiness at the age of 16 & 12. 
+
+Company summary: 
+We are hoping to create a service. I am creating a forum where teenagers in particular who enjoy nonfictions can discuss what books they read recently, and what they enjoyed about each book. It is an online book forum, where teenagers can go and discuss with other teenagers what they thought about the book. I am also including a teacher part of the website where they can create their own private forums for books that they read in class. This is where it becomes a very strong not-for-profit, due to the advantages that it is going to have. Alongside that teachers can choose to lock there forums or not, but you can see the ideologies of different schools & people. So this is also going to create a database of ideas where the panicking highschooler who has an essay due in 12 hours can go and see what other teenagers thought, and get a much better sense for the book itself.
+
+Our goal is to engage students online during school hours and off-campus. When a forum becomes created it becomes visible to the general public to view the actual discussion, thus enabling them to have a reliable source, that came from the ideology of people from their same age, and who are reading the same books. This will create a database of information for the user. 
